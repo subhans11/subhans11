@@ -1,5 +1,5 @@
 # 💫 About Me:
-♾️ DevOps Enthusiast<br>🌱 I’m currently learning Kubernetes<br>💬 Ask me about Jenkins CI/CD
+♾️ DevOps Enthusiast<br>🌱 I’m currently learning Kubernetes, Javascript<br>💬 Ask me about Jenkins CI/CD
 
 
 ## 🌐 Socials:
